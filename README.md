@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, This is Ihsan Ali</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">I'm DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile%20views&color=0e75b6&style=flat" alt="ihsanali2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsanali2001" alt="ihsanali2001" /></a> </p>
 
-- 🌱 I’m currently Working at **Telecard ltd**
+- 🌱 I’m currently Working as a Trainee DevOps Engineer **https://www.telecard.com.pkd**
 
 - 💬 Ask me about **Docker,Jenkins,and anything related to the DevOps Cycle**
 
