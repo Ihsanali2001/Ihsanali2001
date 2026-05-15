@@ -1,82 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ihsan Ali</h1>
-<h3 align="center">Jr. DevOps Engineer | Linux | Docker | Jenkins | AWS | Monitoring</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ihsan%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Jr.%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descSize=18&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Reliable+Infrastructure+%F0%9F%9B%A0%EF%B8%8F;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Docker+%7C+Jenkins+%7C+Kubernetes+%7C+Linux;Learning+Azure+%2B+AWS+Every+Day+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile+Views&color=4FC3F7&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsan-ali-9a8716155)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-panhwerihsan2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panhwerihsan2001@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Jr. DevOps Engineer** currently working at **Telecard Limited**.  
-I am passionate about automation, CI/CD pipelines, Linux server administration, containerization, cloud infrastructure, and monitoring solutions.
+```yaml
+name: Ihsan Ali
+location: Karachi, Pakistan 🇵🇰
+role: Jr. DevOps Engineer @ Telecard
+focus:
+  - CI/CD Pipeline Design & Automation
+  - Containerization with Docker & Kubernetes
+  - Cloud Infrastructure (Azure | AWS)
+  - Linux System Administration
+  - Monitoring & Observability (Grafana)
+currently_learning:
+  - Microsoft Azure (AZ-104)
+  - AWS Solutions Architect
+  - Kubernetes (CKA prep)
+open_to: DevOps | Cloud | Infrastructure roles
+```
 
-- 🔭 Currently working as a **Jr. DevOps Engineer** at [Telecard Limited](https://www.telecard.com.pk)
-- 🌱 Learning and improving my skills in **Microsoft Azure, AWS, Kubernetes, and DevOps Automation**
-- 💬 Ask me about **Docker, Jenkins, Linux, Nginx, CI/CD, Monitoring, and DevOps workflows**
-- 📫 Reach me at **panhwerihsan2001@gmail.com**
-- 🚀 Goal: To become a strong DevOps / Cloud Engineer with hands-on production-level expertise
+---
+
+## 🏢 Current Role
+
+<table>
+<tr>
+<td>
+
+**Jr. DevOps Engineer** — [Telecard Pvt. Ltd.](https://www.telecard.com.pk)
+
+- 🔁 Managing CI/CD pipelines with **Jenkins**
+- 🐳 Containerizing workloads using **Docker**
+- 🌐 Configuring **NGINX** as reverse proxy & load balancer
+- 📊 Setting up monitoring dashboards with **Grafana**
+- 🐧 Linux server administration & automation via **Bash**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### DevOps & CI/CD
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-</p>
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Cloud & Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
-</p>
+### 🐳 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Monitoring & Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55"/>
-</p>
+### 📊 Monitoring & Databases
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Programming & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ---
 
-## 🚀 Skills & Interests
+## 📈 GitHub Stats
 
-```yaml
-DevOps:
-  - CI/CD Pipelines
-  - Docker Containerization
-  - Jenkins Automation
-  - Git & GitHub Workflow
-  - Linux Server Administration
+<div align="center">
 
-Cloud:
-  - AWS Basics
-  - Microsoft Azure Learning
-  - Cloud Infrastructure Management
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanali2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanali2001&layout=compact&theme=tokyonight&border_radius=10" />
 
-Monitoring:
-  - Grafana
-  - Prometheus
-  - Alertmanager
-  - Server & VM Monitoring
+<br/>
 
-Web Servers:
-  - Nginx
-  - Apache
-  - Reverse Proxy
-  - SSL Configuration
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanali2001&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ihsanali2001&theme=tokyonight&column=7&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [ihsan-ali-9a8716155](https://linkedin.com/in/ihsan-ali-9a8716155) |
+| 📧 Email | [panhwerihsan2001@gmail.com](mailto:panhwerihsan2001@gmail.com) |
+| 🐙 GitHub | [@ihsanali2001](https://github.com/ihsanali2001) |
+
+> *"Automate the boring stuff. Monitor everything. Ship with confidence."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
