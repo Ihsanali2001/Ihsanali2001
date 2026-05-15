@@ -6,9 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile+Views&color=4FC3F7&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsan-ali-9a8716155)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-ali-9a8716155/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-panhwerihsan2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panhwerihsan2001@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-panhwerihsan2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panhwerihsan2001@gmail.com)
 
 </div>
 
