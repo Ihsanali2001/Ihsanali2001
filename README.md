@@ -87,9 +87,13 @@ open_to: DevOps | Cloud | Infrastructure roles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanali2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanali2001&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanali2001&theme=tokyonight" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanali2001&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihsanali2001&theme=tokyonight" />
 
 <br/>
 
