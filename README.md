@@ -122,9 +122,6 @@ open_to: DevOps | Cloud | Infrastructure roles
 | 💼 LinkedIn | [ihsan-ali-9a8716155](https://linkedin.com/in/ihsan-ali-9a8716155) |
 | 📧 Email | [panhwerihsan2001@gmail.com](mailto:panhwerihsan2001@gmail.com) |
 | 🐙 GitHub | [@ihsanali2001](https://github.com/ihsanali2001) |
-
-> *"Automate the boring stuff. Monitor everything. Ship with confidence."*
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
