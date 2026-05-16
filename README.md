@@ -5,14 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Reliable+Infrastructure+%F0%9F%9B%A0%EF%B8%8F;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F;Docker+%7C+Jenkins+%7C+Kubernetes+%7C+Linux;Learning+Azure+%2B+AWS+Every+Day+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile+Views&color=4FC3F7&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/ihsan-ali-9a8716155/" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:panhwerihsan2001@gmail.com" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/Gmail-panhwerihsan2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<a href="https://www.linkedin.com/in/ihsan-ali-9a8716155/"><img src="https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:panhwerihsan2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-panhwerihsan2001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=555555" alt="Email" /></a>
 
 </div>
 
