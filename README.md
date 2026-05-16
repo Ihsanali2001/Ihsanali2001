@@ -87,13 +87,13 @@ open_to: DevOps | Cloud | Infrastructure roles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanali2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanali2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanali2001&layout=compact&theme=tokyonight&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanali2001&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanali2001&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ihsanali2001&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
