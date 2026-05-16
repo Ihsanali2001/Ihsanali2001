@@ -6,12 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=ihsanali2001&label=Profile+Views&color=4FC3F7&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/ihsan-ali-9a8716155/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ihsan-ali-9a8716155/" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/LinkedIn-Ihsan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:panhwerihsan2001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-panhwerihsan2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:panhwerihsan2001@gmail.com" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/Gmail-panhwerihsan2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
