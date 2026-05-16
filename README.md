@@ -25,9 +25,9 @@ focus:
   - Linux System Administration
   - Monitoring & Observability (Grafana)
 currently_learning:
-  - Microsoft Azure (AZ-104)
+  - Microsoft Azure
   - AWS Solutions Architect
-  - Kubernetes (CKA prep)
+  - Kubernetes
 open_to: DevOps | Cloud | Infrastructure roles
 ```
 
@@ -119,7 +119,7 @@ open_to: DevOps | Cloud | Infrastructure roles
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [ihsan-ali-9a8716155](https://linkedin.com/in/ihsan-ali-9a8716155) |
+| 💼 LinkedIn | [Ihsan Ali](https://linkedin.com/in/ihsan-ali-9a8716155) |
 | 📧 Email | [panhwerihsan2001@gmail.com](mailto:panhwerihsan2001@gmail.com) |
 | 🐙 GitHub | [@ihsanali2001](https://github.com/ihsanali2001) |
 </div>
