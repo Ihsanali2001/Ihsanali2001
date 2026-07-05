@@ -17,7 +17,7 @@
 ```yaml
 name: Ihsan Ali
 location: Karachi, Pakistan 🇵🇰
-role: Jr DevOps Engineer @ RIKSOF
+role: Jr DevOps Engineer @RIKSOF
 focus:
   - Jenkins CI/CD Pipeline Design & Automation
   - Containerization with Docker
@@ -44,7 +44,7 @@ open_to: DevOps | Cloud | Infrastructure roles
 - 🔁 Managing CI/CD pipelines with **Jenkins**
 - 🐳 Containerizing workloads using **Docker**
 - 🌐 Configuring **NGINX** as reverse proxy & load balancer
-- 📊 Setting up monitoring dashboards with **Grafana**
+- 📊 Setting up monitoring dashboards with **AWS-CloudWatch**
 - 🐧 Linux server administration & automation via **Bash**
 
 </td>
