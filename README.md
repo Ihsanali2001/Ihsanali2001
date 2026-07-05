@@ -39,7 +39,7 @@ open_to: DevOps | Cloud | Infrastructure roles
 <tr>
 <td>
 
-**Jr. DevOps Engineer** — [Telecard Pvt. Ltd.](https://www.telecard.com.pk)
+**Jr. DevOps Engineer** — [RIKSOF](https://www.riksof.com/)
 
 - 🔁 Managing CI/CD pipelines with **Jenkins**
 - 🐳 Containerizing workloads using **Docker**
