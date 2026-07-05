@@ -17,17 +17,17 @@
 ```yaml
 name: Ihsan Ali
 location: Karachi, Pakistan 🇵🇰
-role: Jr. DevOps Engineer @ Telecard
+role: Jr DevOps Engineer @ RIKSOF
 focus:
-  - CI/CD Pipeline Design & Automation
-  - Containerization with Docker & Kubernetes
-  - Cloud Infrastructure (Azure | AWS)
+  - Jenkins CI/CD Pipeline Design & Automation
+  - Containerization with Docker
+  - Cloud Infrastructure (AWS)
   - Linux System Administration
-  - Monitoring & Observability (Grafana)
+  - Monitoring & Observability
 currently_learning:
-  - Microsoft Azure
-  - AWS Solutions Architect
+  - AWS Services
   - Kubernetes
+  - Ansible | Terraform
 open_to: DevOps | Cloud | Infrastructure roles
 ```
 
